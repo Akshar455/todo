@@ -1,0 +1,22 @@
+.main-container {
+    height: 100vh;
+    width: 100%;
+    background-color: lightgreen;
+
+}
+
+
+.input-container {
+    display: flex;
+    height: 30%;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.card-list {
+
+    display: flex;
+}

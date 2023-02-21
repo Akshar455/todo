@@ -1,0 +1,10 @@
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    
+}
+
+.CardContant {
+    background-color: grey;
+}
